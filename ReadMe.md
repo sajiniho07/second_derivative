@@ -46,5 +46,5 @@ d^2y/dx^2 = [y[i+2] - 2y[i+1] + y[i]] / [(x[i+1] - x[i])^2]
 
 ## Example
 
-![sample](https://github.com/sajiniho07/second_derivative/res/plot.png)
+![sample](https://github.com/sajiniho07/second_derivative/blob/master/res/plot.png)
 
